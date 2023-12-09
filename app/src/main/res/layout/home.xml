@@ -165,5 +165,18 @@
         tools:layout_editor_absoluteX="273dp"
         tools:layout_editor_absoluteY="622dp" />
 
+    <Button
+        android:id="@+id/bt_buy"
+        android:layout_width="176dp"
+        android:layout_height="46dp"
+        android:layout_marginBottom="24dp"
+        android:backgroundTint="@color/black"
+        android:text="Buy"
+        android:textSize="20dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.451"
+        app:layout_constraintStart_toStartOf="parent" />
+
 
 </androidx.constraintlayout.widget.ConstraintLayout>
